@@ -1,5 +1,6 @@
 # Catheter-Motion-System-Thesis
-Procect step
+Procect steps
+
 Step 1:
 1) Download rar file
 2) Place launch file to dynamixel launch file
